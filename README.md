@@ -11,7 +11,7 @@ A Clash Meta GUI based on <a href="https://github.com/tauri-apps/tauri">Tauri</a
 
 ##
 
-This branch is modified from [clash-verge-rev](https://github.com/MetaCubeX/clash-verge)
+This branch is modified from [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
 ## Features
 
